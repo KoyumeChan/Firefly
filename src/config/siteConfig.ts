@@ -9,7 +9,7 @@ export const siteConfig: SiteConfig = {
 	title: "Firefly",
 
 	// 站点副标题
-	subtitle: "Demo site",
+	subtitle: "星核猎手一家人",
 
 	// 站点 URL
 	site_url: "https://firefly.cuteleaf.cn",
@@ -21,12 +21,9 @@ export const siteConfig: SiteConfig = {
 	// 站点关键词
 	keywords: [
 		"Firefly",
-		"Fuwari",
-		"Astro",
-		"ACGN",
-		"博客",
-		"技术博客",
-		"静态博客",
+		"星穹铁道",
+		"星穹列车",
+		"星核猎手",
 	],
 
 	// 主题色
