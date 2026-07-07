@@ -78,28 +78,16 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 		// 子菜单
 		children: [
 			{
-				name: "GitHub",
-				url: "https://github.com/CuteLeaf/Firefly",
+				name: "原神 Bilibili",
+				url: "https://space.bilibili.com/401742377",
 				external: true,
-				icon: "fa7-brands:github",
+				icon: "fa7-brands:bilibili",
 			},
 			{
-				name: "Gitee",
-				url: "https://gitee.com/CuteLeaf/Firefly",
+				name: "云·原神",
+				url: "https://ys.mihoyo.com/cloud",
 				external: true,
-				icon: "fa7-brands:gitee",
-			},
-			{
-				name: "QQ交流群",
-				url: "https://qm.qq.com/q/ZGsFa8qX2G",
-				external: true,
-				icon: "fa7-brands:qq",
-			},
-			{
-				name: "Firefly文档",
-				url: "https://docs-firefly.cuteleaf.cn",
-				external: true,
-				icon: "material-symbols:docs",
+				icon: "material-symbols:cloud-outline",
 			},
 		],
 	});
