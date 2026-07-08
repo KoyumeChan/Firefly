@@ -6,6 +6,7 @@ image: ./images/141585845_p0.jpg
 tags: [桑多涅, 哥伦比娅]
 category: 原神
 draft: false
+pinned: true
 ---
 
 不可理喻！！
